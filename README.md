@@ -4,7 +4,9 @@
 
 ![kibum414's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibum414&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=40)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibum414&count_private=true&include_all_commits=true&theme=swift&layout=compact&title_color=DBAEFF&width=49.2)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **kibum414/kibum414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
